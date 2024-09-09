@@ -1,0 +1,29 @@
+body {
+    background: #ffc3c3;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrap {
+    width: 100%;
+    height: 100px;
+    background: #ffc3c3;
+}
+h3 {
+    color: #ff6363;
+    cursor: pointer;
+}
+.text {
+    color: #647eff;
+}
+.span {
+    color: #000;
+}
+.img {
+    background-image: url(../folder/common.jpeg);
+    width: 7%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
